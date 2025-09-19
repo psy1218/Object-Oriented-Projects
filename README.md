@@ -4,8 +4,12 @@
 
 이 저장소에는 **C++**과 **SFML** 라이브러리를 활용하여 제작한 두 가지 프로젝트가 포함되어 있습니다.  
 
-1. **A_wall_hitting_game.cpp** – 벽에 공을 튕기며 막대바로 받아내는 아케이드 게임  
+1. **A_wall_hitting_game.cpp** – 벽에 공을 튕기며 막대바로 받아내는 아케이드 게임 
+![설명](./images/A_wall_hitting_game.png) 
+
 2. **astar_pathfinding.cpp** – A* 알고리즘 기반 경로 탐색 시뮬레이터  
+![설명](./images/finding_hangul.png)
+![설명](./images/finding_obstacle.png)
 
 ---
 
